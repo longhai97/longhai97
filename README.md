@@ -1,10 +1,10 @@
 ### Hi there, welcome to my profile 🤘🥳🤘
 
-<!--
-**longhai97/longhai97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Spotify Playing 🎧
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
+
+<!--
+**longhai97/longhai97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
