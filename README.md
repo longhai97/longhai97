@@ -1,7 +1,7 @@
 ### Hi there, welcome to my profile 🤘🥳🤘
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/playlist/6vDGVr652ztNWKZuHvsFvx)
+[<img src="https://open.spotify.com/playlist/50boEdkpJHzCdIjUHoQ2W8" alt="BooTee Spotify Playing" width="350" />](https://open.spotify.com/playlist/50boEdkpJHzCdIjUHoQ2W8)
 
 
 - 🔭 I’m currently working on ReactJs, React-native,..
